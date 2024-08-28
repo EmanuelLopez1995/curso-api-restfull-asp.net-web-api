@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UecHyNOM02RnMpz0+KSUVA0vFS4ZHCFF4FzdTgNdPbR/GwfDWcA9XFAyNDek/6kt5JaoVGNygSh2NXs+KLBDfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emanuel.b.lopez\\OneDrive - Accenture\\Documents\\Ema\\Resumen Cursos\\Udemy\\Master API RESTfull con ASP.NET Core Web API\\Proyectos\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\emanuel.b.lopez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
